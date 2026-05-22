@@ -1,0 +1,12 @@
+gene,prenatal_mean,postnatal_mean,fold_change,p_value,significant
+NDC80,5.089,0.112,45.49,0.0,True
+NUF2,2.747,0.135,20.29,0.0,True
+SPC24,4.773,0.317,15.07,0.0,True
+SPC25,3.621,0.242,14.96,0.0,True
+BUB1,3.263,0.105,31.22,0.0,True
+BUB1B,3.878,0.187,20.75,0.0,True
+BUB3,25.172,12.946,1.94,0.0,True
+CASC5,1.361,0.035,38.36,0.0,True
+MAD2L1,5.921,1.823,3.25,0.0,True
+CENPE,1.081,0.14,7.75,0.0,True
+CENPF,6.287,0.272,23.15,0.0,True
